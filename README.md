@@ -1,4 +1,3 @@
-# Myntra-Functional-Web
 # Myntra Functional Replica 🚀
 
 A fully functional clone of the popular e-commerce platform, **Myntra**, developed using **HTML**, **CSS**, and **JavaScript**. This project aims to replicate the core features and user experience of the original Myntra website, delivering a smooth, responsive interface.
