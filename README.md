@@ -4,7 +4,7 @@ A fully functional clone of the popular e-commerce platform, **Myntra**, develop
 
 ## 🌐 Live Demo
 Check out the live version of the project here:  
-[https://willowy-sawine-3d11ee.netlify.app/](https://willowy-sawine-3d11ee.netlify.app/)
+🔗 [willowy-sawine-3d11ee.netlify.app](https://willowy-sawine-3d11ee.netlify.app/)
 
 ## 🌟 Features
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
