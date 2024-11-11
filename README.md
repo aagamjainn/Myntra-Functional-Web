@@ -2,6 +2,10 @@
 
 A fully functional clone of the popular e-commerce platform, **Myntra**, developed using **HTML**, **CSS**, and **JavaScript**. This project aims to replicate the core features and user experience of the original Myntra website, delivering a smooth, responsive interface.
 
+## 🌐 Live Demo
+Check out the live version of the project here:  
+[https://willowy-sawine-3d11ee.netlify.app/](https://willowy-sawine-3d11ee.netlify.app/)
+
 ## 🌟 Features
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 - **Interactive UI**: Product browsing with category filtering and sorting.
